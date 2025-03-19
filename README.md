@@ -4,7 +4,6 @@ This repository contains most of the code and projects I wrote while pursuing my
 
 ### 1nd semester (winter 2022/2023)
 - [Construction documentation and engineering graphics](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Construction%20documentation%20and%20engineering%20graphics)
-- [X](link-do-repo)
 
 ### 2nd semester (winter 2022/2023)
 - [Programowanie Obiektowe](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Programowanie%20Obiektowe)
