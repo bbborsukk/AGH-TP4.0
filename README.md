@@ -7,4 +7,4 @@ This repository contains most of the code and projects I wrote while pursuing my
 - [X](link-do-repo)
 
 ### 2nd semester (winter 2022/2023)
-- [X](link-do-repo)
+- [Programowanie Obiektowe](link-do-repo)
