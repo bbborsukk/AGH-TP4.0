@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block body_block %}
+<div >
+<h1 class="text-center">
+  <br>
+    Rejestracja
+</h1>
+<br>
+<div class="d-flex justify-content-center align-items-center">
+  <form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <div class="text-center">
+    <button type="submit" class="btn btn-brow">Register</button>
+    </div>
+  </form>
+</div>
+  <br>
+        <br>
+</div>
+{% endblock %}
