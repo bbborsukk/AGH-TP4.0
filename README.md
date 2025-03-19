@@ -12,3 +12,4 @@ This repository contains most of the code and projects I wrote while pursuing my
 ### 3rd semester (summer 2023/2024
 - [Metody Numeryczne](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Metody%20Numeryczne)
 - [Podstawy wiedzy o polimerach](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Podstawy%20wiedzy%20o%20polimerach)
+- [Sterowanie Układów Liniowych 1](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Sterowanie%20Uk%C5%82ad%C3%B3w%20Liniowych%201)
