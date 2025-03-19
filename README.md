@@ -19,3 +19,4 @@ This repository contains most of the code and projects I wrote while pursuing my
   ### 4rd semester (winter 2023/2024)
 - [Sterowanie Układów Liniowych 2](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Sterowanie%20uk%C5%82ad%C3%B3w%20liniowych%202)
 - [Projektowanie technologii wytwarzania](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Projektowanie%20technologii%20wytwarzania)
+- [Techniki Pomiarowe](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Techniki%20Pomiarowe)
