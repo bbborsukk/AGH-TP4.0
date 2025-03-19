@@ -7,4 +7,4 @@ This repository contains most of the code and projects I wrote while pursuing my
 - [X](link-do-repo)
 
 ### 2nd semester (winter 2022/2023)
-- [Programowanie Obiektowe](link-do-repo)
+- [Programowanie Obiektowe](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Programowanie%20Obiektowe)
