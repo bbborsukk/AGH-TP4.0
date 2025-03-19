@@ -8,3 +8,4 @@ This repository contains most of the code and projects I wrote while pursuing my
 
 ### 2nd semester (winter 2022/2023)
 - [Programowanie Obiektowe](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Programowanie%20Obiektowe)
+- [Oprogramowanie Obliczeniowe](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Oprogramowanie%20Obliczeniowe)
