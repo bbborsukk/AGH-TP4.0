@@ -20,3 +20,5 @@ This repository contains most of the code and projects I wrote while pursuing my
 - [Sterowanie Układów Liniowych 2](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Sterowanie%20uk%C5%82ad%C3%B3w%20liniowych%202)
 - [Projektowanie technologii wytwarzania](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Projektowanie%20technologii%20wytwarzania)
 - [Techniki Pomiarowe](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Techniki%20Pomiarowe)
+### 5rd semester (winter 2024/2022)
+- [Systemy PLC]
