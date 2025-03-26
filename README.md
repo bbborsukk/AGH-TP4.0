@@ -22,3 +22,4 @@ This repository contains most of the code and projects I wrote while pursuing my
 - [Techniki Pomiarowe](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Techniki%20Pomiarowe)
 ### 5rd semester (winter 2024/2022)
 - [Systemy PLC](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Systemy%20PLC)
+- [Analiza Danych]
