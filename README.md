@@ -16,10 +16,13 @@ This repository contains most of the code and projects I wrote while pursuing my
 - [Bazy Danych](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Bazy%20Danych)
 - [Stopy Odlewnicze]()
 
-### 4rd semester (winter 2023/2024)
+### 4rd semester (winter 2024/2025)
 - [Sterowanie Układów Liniowych 2](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Sterowanie%20uk%C5%82ad%C3%B3w%20liniowych%202)
 - [Projektowanie technologii wytwarzania](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Projektowanie%20technologii%20wytwarzania)
 - [Techniki Pomiarowe](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Techniki%20Pomiarowe)
 ### 5rd semester (winter 2024/2022)
 - [Systemy PLC](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Systemy%20PLC)
 - [Analiza Danych]
+
+### 6rd semester (summer 2024/2025)
+- [Uczenie Maszynowe](https://github.com/bbborsukk/AGH-TP4.0/tree/main/Uczenie%20Maszynowe)
